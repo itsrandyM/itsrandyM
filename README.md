@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @itsrandyM
 - 👀 I’m interested in building problem solving and effective tools and apps.
-- 🌱 I’m currently learning Python!!![image](https://github.com/user-attachments/assets/6de23eb7-3663-4244-8ef3-2d7a1c800618)
-
-
+- 🌱 I’m currently learning Python!!
 - 📫 How to reach me :awesomerandall06@gmail.com
 
 <!---

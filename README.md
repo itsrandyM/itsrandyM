@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itsrandyM
-- 👀 I’m interested in building problem solving and effective tools and apps.
+- 👀 I’m interested in building effective problem solving tools and apps.
 - 🌱 I’m currently learning Python!!
 - 📫 How to reach me :awesomerandall06@gmail.com
 
